@@ -120,6 +120,10 @@ Vp = 6.866 V
 
 **8.7 CONCLUSIONES**
 
+* El voltaje del osciloscopio mostrado varia al compararlo con el multímetro se realaizo una opereación adicional para obtener el mismo resultado que nos mostro en el osciloscopio.
+
+* Tenga en cuenta que puede mostrar diferentes tipos de ondas según la fuente conectada y la frecuencia con la que se mueven los valores de voltaje.
+
 **8.8 BIBLIOGRAFIA**
 
 Electronics Circuits Simulator. Real looking Components. (2022). Dcaclab.com. https://dcaclab.com/lab
