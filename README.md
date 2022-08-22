@@ -72,11 +72,11 @@ Invertigue la representación de la onda senoidal, tanto en su forma gráfica co
 
 Amplitud de voltaje: (V)
 
-* 10 (Volts/Vid)
+* 3 (Volts/Vid)
 
 * 2 (Amplitud de pico)
 
-**20 V (Valor aproximado)**
+**6 V (Valor aproximado)**
 
 Periodo: (S)
 
@@ -106,21 +106,13 @@ w: (rad/s)
 
 **8.5.8. Compare el voltaje medido en el punto 7.5.5. y el obtenido en el punto 7.5.7. ¿Coinciden? ¿Por qué?**
 
-Hay un desajuste esto se debe a que el osciloscopio da un valor del pico mientras que el multimetro nos da en Vrms por eso varia el resultado en sus dos mediciones si deseamos calcular el resultado que nos halla arojado el osciloscopio debemos realizar la siguientes operaciones:
-
-**Operacion:**
-
-Vp = Vrms(0.707)
-
-Vp = 9.712(0.707)
-
-Vp = 6.866 V
+Hay un desajuste esto se debe a que el osciloscopio da un valor del pico mientras que el multimetro nos da en Vrms por eso varia el resultado en sus dos mediciones.
 
 **8.6 VIDEO**
 
 **8.7 CONCLUSIONES**
 
-* El voltaje del osciloscopio mostrado varia al compararlo con el multímetro se realaizo una opereación adicional para obtener el mismo resultado que nos mostro en el osciloscopio.
+* El voltaje del osciloscopio mostrado varia al compararlo con el multímetro si se desea ver el mismo resultado en tendriamos que realizar una opereacion adicional el cual consiste en aplicar la formula del Vp.
 
 * Tenga en cuenta que puede mostrar diferentes tipos de ondas según la fuente conectada y la frecuencia con la que se mueven los valores de voltaje.
 
