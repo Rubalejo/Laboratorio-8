@@ -32,7 +32,7 @@ Invertigue la representación de la onda senoidal, tanto en su forma gráfica co
 
 **SIMULADOR:**
 
-![image](https://user-images.githubusercontent.com/105680588/186027026-42362627-f947-4edf-96a8-37f7fed26613.png)
+![image](https://user-images.githubusercontent.com/105680588/186038246-33d821de-4a07-45f3-90dd-097d89f3a677.png)
 
 **8.5.2. Ajuste el generador de funciones, para que proporcione una señal de 20 Vpp a una frecuencia de 2.5 Khz.**
 
@@ -42,21 +42,21 @@ Invertigue la representación de la onda senoidal, tanto en su forma gráfica co
 
 **8.5.3. Conecte el osciloscopio al resistor de carga Rl. Observe la señal que aparece en el osciloscopio.**
 
-![image](https://user-images.githubusercontent.com/105680588/186027494-03b89d85-da6f-41a8-ac66-b65f26a7601e.png)
+![image](https://user-images.githubusercontent.com/105680588/186038197-1d2ead6b-bc08-45de-a6d3-eede7fcf13de.png)
 
 **8.5.4. Responda las siguientes preguntas:**
 
 **1.-¿Cuántas divisiones por cuadro abarca la amplitud pico de la señal de salida?**
 
-![image](https://user-images.githubusercontent.com/105680588/186029471-ac8a1a9e-82b5-4780-8c37-21e51449cd11.png)
+![image](https://user-images.githubusercontent.com/105680588/186037948-74748b1b-425f-447e-aa9d-648a31860227.png)
 
 *Abarca 2 cuadros la amplitud de pico de la la seña de salida
 
 **2.-¿En qué valor está posicionada la perilla VOLTS/VID?**
 
-![image](https://user-images.githubusercontent.com/105680588/186029870-9a3f275e-4c79-4b06-bb2a-b8716f376df1.png)
+![image](https://user-images.githubusercontent.com/105680588/186037794-aeca074d-2524-43c1-bc62-76e949025188.png)
 
-*Esta en 10v
+*Esta en 3v
 
 **3.-¿Cuántas divisiones por cuadro abarca un ciclo completo de la señal salida?**
 
@@ -102,10 +102,19 @@ w: (rad/s)
 
 **8.5.7. Con el multímetro digital mida el voltaje de salida en Rl:**
 
-![image](https://user-images.githubusercontent.com/105680588/186033288-6d988389-feea-4efe-b816-354b96fef71a.png)
+![image](https://user-images.githubusercontent.com/105680588/186038084-66beef34-ed21-486c-8378-e2b48d9a1ab0.png)
 
 **8.5.8. Compare el voltaje medido en el punto 7.5.5. y el obtenido en el punto 7.5.7. ¿Coinciden? ¿Por qué?**
 
+Hay un desajuste esto se debe a que el osciloscopio da un valor del pico mientras que el multimetro nos da en Vrms por eso varia el resultado en sus dos mediciones si deseamos calcular el resultado que nos halla arojado el osciloscopio debemos realizar la siguientes operaciones:
+
+**Operacion:**
+
+Vp = Vrms(0.707)
+
+Vp = 9.712(0.707)
+
+Vp = 6.866 V
 
 **8.6 VIDEO**
 
