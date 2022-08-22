@@ -102,8 +102,7 @@ w: (rad/s)
 
 **8.5.7. Con el multímetro digital mida el voltaje de salida en Rl:**
 
-![image](https://user-images.githubusercontent.com/105680588/186032954-0b89ee5d-db76-4d53-b12d-d13249d030ed.png)
-
+![image](https://user-images.githubusercontent.com/105680588/186033288-6d988389-feea-4efe-b816-354b96fef71a.png)
 
 **8.5.8. Compare el voltaje medido en el punto 7.5.5. y el obtenido en el punto 7.5.7. ¿Coinciden? ¿Por qué?**
 
