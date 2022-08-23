@@ -22,6 +22,8 @@ Determinar experimentalmente las características de señales senoidales.
 
 **8.3. MARCO TEORICO**
 
+![image](https://user-images.githubusercontent.com/105680588/186066931-134554ff-8d5d-4a37-9cbb-cf8c3d047dfd.png)
+
 **8.4. MATERIAL Y EQUIPO REQUERIDO**
 
 ![image](https://user-images.githubusercontent.com/105680588/186003644-d0c69532-9e80-458f-95b0-f2ee30358a0c.png)
