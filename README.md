@@ -18,7 +18,7 @@ Determinar experimentalmente las características de señales senoidales.
 
 **8.3.REQUISITOS PREVIOS**
 
-Invertigue la representación de la onda senoidal, tanto en su forma gráfica como en su forma matemática.
+* Invertigue la representación de la onda senoidal, tanto en su forma gráfica como en su forma matemática.
 
 **8.3. MARCO TEORICO**
 
