@@ -60,7 +60,7 @@ Determinar experimentalmente las características de señales senoidales.
 
 **2.-¿En qué valor está posicionada la perilla VOLTS/VID?**
 
-![image](https://user-images.githubusercontent.com/105680588/186037794-aeca074d-2524-43c1-bc62-76e949025188.png)
+![image](https://user-images.githubusercontent.com/105680588/186162276-ad347937-e6f4-4187-a6e3-7a4ee9de7ffe.png)
 
 *Esta en 2.25v
 
