@@ -48,7 +48,7 @@ Determinar experimentalmente las características de señales senoidales.
 
 **8.5.3. Conecte el osciloscopio al resistor de carga Rl. Observe la señal que aparece en el osciloscopio.**
 
-![image](https://user-images.githubusercontent.com/105680588/186038197-1d2ead6b-bc08-45de-a6d3-eede7fcf13de.png)
+![image](https://user-images.githubusercontent.com/105680588/186161736-377e009a-8710-4af6-823a-9e2c213a45a1.png)
 
 **8.5.4. Responda las siguientes preguntas:**
 
@@ -62,7 +62,7 @@ Determinar experimentalmente las características de señales senoidales.
 
 ![image](https://user-images.githubusercontent.com/105680588/186037794-aeca074d-2524-43c1-bc62-76e949025188.png)
 
-*Esta en 3v
+*Esta en 2.25v
 
 **3.-¿Cuántas divisiones por cuadro abarca un ciclo completo de la señal salida?**
 
@@ -78,11 +78,11 @@ Determinar experimentalmente las características de señales senoidales.
 
 Amplitud de voltaje: (V)
 
-* 3 (Volts/Vid)
+* 2.25 (Volts/Vid)
 
 * 2 (Amplitud de pico)
 
-**6 V (Valor aproximado)**
+**4.5 V (Valor aproximado)**
 
 Periodo: (S)
 
