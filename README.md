@@ -12,6 +12,10 @@ Determinar experimentalmente las características de señales senoidales.
 
 **8.2.OBJETIVO ESPECIFICO**
 
+* Realizar el circuito en ACDLab y compartir los resultados.
+
+* En el video realizado por mis compañeros se pudo desarrollar la implementación del circuito el osciloscopio y el multímetro para observar los diferentes resultados que nos arrojaba.
+
 **8.3.REQUISITOS PREVIOS**
 
 Invertigue la representación de la onda senoidal, tanto en su forma gráfica como en su forma matemática.
@@ -109,6 +113,8 @@ w: (rad/s)
 Hay un desajuste esto se debe a que el osciloscopio da un valor del pico mientras que el multimetro nos da en Vrms por eso varia el resultado en sus dos mediciones.
 
 **8.6 VIDEO**
+
+https://www.youtube.com/watch?v=l7nYBrgWX0I&ab_channel=RubenBustos
 
 **8.7 CONCLUSIONES**
 
