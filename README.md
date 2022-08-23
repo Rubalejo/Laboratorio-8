@@ -54,7 +54,7 @@ Determinar experimentalmente las características de señales senoidales.
 
 **1.-¿Cuántas divisiones por cuadro abarca la amplitud pico de la señal de salida?**
 
-![image](https://user-images.githubusercontent.com/105680588/186037948-74748b1b-425f-447e-aa9d-648a31860227.png)
+![image](https://user-images.githubusercontent.com/105680588/186162153-55c7fd73-5ea1-4170-82e5-cf0a9b0c1909.png)
 
 *Abarca 2 cuadros la amplitud de pico de la la seña de salida
 
